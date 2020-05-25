@@ -8,4 +8,7 @@ La presente repository rappresenta lo spazio di pubblicazione principale del Gru
   <li>Rodolfi Michele</li>
   <li>Spinoni Luca</li>
   <li>Zoccante Danilo</li>
-</ul>
+</ul><br>
+<h2>Gestione del Progetto</h2>
+Vengono riportati i documenti di progetto (Project Initial Document - PID), con i riferimenti sulle tempistiche e Software utilizzati.
+Vengono poi riportati la Work Breakdown Structure (WBS) e i diagrammi di Gantt.
